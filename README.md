@@ -10,7 +10,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/abrarrahmanabir/DeepRNA-Twist.git](https://github.com/abrarrahmanabir/BioLLMNet.git
+   git clone https://github.com/abrarrahmanabir/BioLLMNet.git
    cd BioLLMNet
 
 ### Dataset
